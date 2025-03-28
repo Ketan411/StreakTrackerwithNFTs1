@@ -1,0 +1,15 @@
+[package]
+name = "StreakTrackerwithNFTs"
+version = "1.0.0"
+authors = []
+
+[addresses]
+StreakTracker = "0xcda56316bf777427bdeaa324bba754ec62e4c374abb6d148149704b55659c8b5"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
