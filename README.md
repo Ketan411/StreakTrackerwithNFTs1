@@ -17,8 +17,9 @@ The vision of StreakTracker is to create a **trustless and decentralized** syste
 - **DApp Development:** A user-friendly web or mobile app for seamless tracking.  
 
 ## **5. Contract Details**  
-- **Contract Address:**  "0xcba5a28b5b83ef6667560e0d6de2b2991954f1009456a249b2a2647056aa5b65"
-- ![image](https://github.com/user-attachments/assets/00b19998-e0ba-4366-8833-87029914b63e)
+- **Contract Address:**  "0xd153c726181871b501fcc735f7bb6a5511a19400a73fbccf97d7318a3bf28bcb"
+![12](https://github.com/user-attachments/assets/6da321ef-250c-49c8-891a-4510b1b652a4)
+
 
 
 ---
